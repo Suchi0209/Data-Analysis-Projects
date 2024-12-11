@@ -26,15 +26,6 @@
    - Documentation and project overview.
 ---
 
-## 🚀 **How to Use**
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/your-username/office-world-supply-sales.git
-2. **Explore the Files**
-- Open the data/ folder for the dataset in Excel format.
-- Check the visual/ folder for visualizations in PowerPoint.
-- Modify and Extend
-
 3. **Use the Excel data to create your own analysis.**
 - Build on the PowerPoint presentation to share insights.
 ---
@@ -53,13 +44,18 @@
 
 ## 🖼️ Sample Visualizations
 
-- 📊 **Sales Trends Dashboard**
+- 📈 **Sales Trends Dashboard**
+  
  ![image](https://github.com/user-attachments/assets/225813c8-f32e-4f6e-b59f-89020041ba8b)
 
 
-- 📈 **Key Findings and Results**
+- 📊 **Key Findings and Results**
+  
   ![image](https://github.com/user-attachments/assets/52fbfd5b-7c7e-43e7-becb-c28f367e768d)
 
+- **Customer Base By Segment**
+
+  ![image](https://github.com/user-attachments/assets/838ffc0e-396f-47c8-8724-debcf28dd9dd)
 
 ---
 
