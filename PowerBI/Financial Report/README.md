@@ -35,3 +35,19 @@ Contributions are welcome! Here's how you can help:
 2. Clone it:
    ```bash
    git clone https://github.com/your-username/financial-report.git
+3. Make your changes and submit a pull request.
+
+---
+
+## 📬 Contact
+
+For any questions or feedback, feel free to reach out:
+
+- 📧 **Email**: suchitra@suchitraltd.co.uk
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/suchitra-sharma-715228105/](https://www.linkedin.com/in/suchitra-sharma-715228105/)
+- 🌐 **GitHub**: [https://github.com/Suchi0209](https://github.com/Suchi0209)
+
+---
+
+### ✨ Quote to Inspire
+> "In God we trust. All others must bring data." – W. Edwards Deming
