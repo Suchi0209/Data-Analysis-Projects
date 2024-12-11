@@ -1,7 +1,5 @@
 # 🏢 Office World Supply Sales
 
-![Supply Chain Banner](images/banner.png)
-
 **Office World Supply Sales** is a project designed to **analyze and optimize the supply chain data** for office supplies within an organization. The project leverages **data analysis, visualization, and reporting** to streamline operations, reduce costs, and ensure the timely supply of essential office products.
 
 ---
@@ -19,15 +17,12 @@
 ### 📁 Folder Details:
 
 1. **data/**  
-   - ![Data Folder Icon](https://via.placeholder.com/50x50?text=Data)
    - Contains Excel files used for data cleaning, analysis, and visualization.
 
 2. **visual/**  
-   - ![Visual Folder Icon](https://via.placeholder.com/50x50?text=Visual)
    - Contains PowerPoint presentations showcasing the analysis and insights.
 
 3. **README.md**  
-   - ![Document Icon](https://via.placeholder.com/50x50?text=Doc)
    - Documentation and project overview.
 ---
 
@@ -59,8 +54,12 @@
 ## 🖼️ Sample Visualizations
 
 - 📊 **Sales Trends Dashboard**
+ ![image](https://github.com/user-attachments/assets/225813c8-f32e-4f6e-b59f-89020041ba8b)
 
-- 📈 **Inventory Tracking Chart**
+
+- 📈 **Key Findings and Results**
+  ![image](https://github.com/user-attachments/assets/52fbfd5b-7c7e-43e7-becb-c28f367e768d)
+
 
 ---
 
