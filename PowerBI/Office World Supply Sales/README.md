@@ -53,7 +53,7 @@
   
   ![image](https://github.com/user-attachments/assets/52fbfd5b-7c7e-43e7-becb-c28f367e768d)
 
-- **Customer Base By Segment**
+- 📊 **Customer Base By Segment**
 
   ![image](https://github.com/user-attachments/assets/838ffc0e-396f-47c8-8724-debcf28dd9dd)
 
